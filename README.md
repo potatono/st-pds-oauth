@@ -11,4 +11,11 @@ Still missing
 
 * Setting up firebase
 
+## Usage
 
+```
+git clone git@github.com:potatono/python-app-boilerplate repo-new
+cd repo-new
+git remote set-url origin git@github.com:potatono/repo-new
+git push origin main
+```
