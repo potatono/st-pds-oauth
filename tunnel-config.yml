@@ -1,0 +1,4 @@
+ingress:
+  - hostname: dev.s2th.tv
+    service: http://localhost:9000
+  - service: http_status:404
